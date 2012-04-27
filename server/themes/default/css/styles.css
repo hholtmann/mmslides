@@ -1,0 +1,240 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	color:#eee;
+	background-color: black;
+	font:13px "Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+}
+
+#dialog-form {
+	display: none;
+}
+
+#slideshow{
+	background-color:black;
+	position:relative;	
+}
+
+	#slideshow ul{
+		list-style:none outside none;
+		overflow:hidden;
+		position:relative;
+		width: 640px;
+		height: 480px;
+		margin: 0 auto;
+	}
+	
+	#slideshow li{
+		position:absolute;
+		display: block;
+		overflow:hidden;
+	}
+
+	div.controls {
+		position: absolute;
+		width:  100%;
+		z-index: 10000;
+		top:  350px;
+	}
+	
+
+@media only screen and (device-width: 768px) and (orientation: landscape) {
+	#slideshow ul{
+		list-style:none outside none;
+		overflow:hidden;
+		position:relative;
+		width: 900px;
+		height: 675px;
+		margin: 0 auto;
+	}
+	
+	#slideshow li{
+		position:absolute;
+		z-index:10;
+		width: 900px;
+		height: 675px;
+	}
+
+	div.controls {
+		position: absolute;
+		width:  100%;
+		z-index: 10000;
+		top:  340px;
+	}
+}
+
+@media only screen and (device-width: 768px) and (orientation: portrait) {
+	#slideshow ul{
+		list-style:none outside none;
+		overflow:hidden;
+		position:relative;
+		width: 768px;
+		height: 576px;
+		margin: 0 auto;
+	}
+	
+	#slideshow li{
+		position:absolute;
+		z-index:10;
+		width: 768px;
+		height: 576px;
+	}
+
+	div.controls {
+		position: absolute;
+		width:  100%;
+		z-index: 10000;
+		top:  340px;
+	}
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
+	#slideshow ul{
+		list-style:none outside none;
+		overflow:hidden;
+		position:relative;
+		width: 360px;
+		height: 270px;
+		margin: 0 auto;
+	}
+	
+	#slideshow li{
+		position:absolute;
+		z-index:10;
+		width: 360px;
+		height: 270px;
+	}
+
+	div.controls {
+		position: absolute;
+		width:  100%;
+		z-index: 10000;
+		top:  140px;
+	}
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
+	#slideshow ul{
+		list-style:none outside none;
+		overflow:hidden;
+		position:relative;
+		width: 320px;
+		height: 240px;
+		margin: 58px auto;
+	}
+	
+	#slideshow li{
+		position:absolute;
+		overflow:hidden;
+		width: 320px;
+		height: 240px;
+	}
+
+	div.controls {
+		position: absolute;
+		width:  100%;
+		z-index: 10000;
+		top:  110px;
+	}
+}
+
+
+#slideshow li:first-child{
+//	display:block;
+	z-index:1000;
+}
+
+#slideshow .slideActive{
+	z-index:1000;
+}
+
+#slideshow canvas{
+	display:none;
+	position:absolute;
+	z-index:100;
+}
+
+#slideshow .previous{ background-position:left top;left:0;}
+#slideshow .previous:hover{ background-position:left bottom;}
+
+#slideshow .next{ background-position:right top;right:0;}
+#slideshow .next:hover{ background-position:right bottom;}
+
+.clear{
+	clear:both;
+}
+
+.controls {
+	display: none;
+}
+
+div.buttons {
+	width: 366px;
+	height: 46px;
+	background: url(../icons/controls_bg.png) no-repeat;
+	position: relative;
+	margin: 0 auto;
+}
+
+.buttons .inner {
+	padding-top: 3px;
+	padding-left: 90px;
+}
+
+.buttons .tile
+{
+	float:  left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.buttons .button_left_n {
+	width: 32px;
+	height: 32px;
+	background: url(../icons/controls_previous.png) no-repeat;
+}
+
+.buttons .button_left_n:hover {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_previous.png) no-repeat;
+}
+
+.buttons .button_right_n {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_next.png) no-repeat;
+}
+
+.buttons .button_right_n:hover {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_next.png) no-repeat;
+}
+
+.buttons .button_pause_n {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_pause.png) no-repeat;
+}
+
+.buttons .button_pause_n:hover {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_pause.png) no-repeat;
+}
+
+.buttons .button_play_n {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_play.png) no-repeat;
+}
+
+.buttons .button_play_n:hover {
+width: 32px;
+height: 32px;
+	background: url(../icons/controls_play.png) no-repeat;
+}

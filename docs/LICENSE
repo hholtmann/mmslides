@@ -1,0 +1,76 @@
+mmslides is licensed under New BSD License (full license text below)
+
+
+mmslides uses the following libraries that are licensed under different licenses:
+
+- Cappuccino 0.81 Web Framework  and extensions are licensed under LGPL License:
+https://github.com/cappuccino/cappuccino/tree/v0.8.1
+
+- jQuery 1.4.2 is licensed under MIT License:
+http://blog.jquery.com/2010/02/19/jquery-142-released/
+
+- jQuery UI 1.8.11 is licensed under MIT License:
+http://blog.jqueryui.com/2011/03/jquery-ui-1-8-11/
+
+- JPlayer 2.0 is licensed under MIT License:
+http://www.jplayer.org
+
+- Smarty 3.1.4 is licensed under LGPL License:
+http://www.schillmania.com/projects/soundmanager2/
+
+- cfpropertylist is licensed under MIT License:
+http://code.google.com/p/cfpropertylist/
+
+- TweenLite and TimeLineLite are licensed under "NO CHARGE" non-exclusive license:
+http://www.greensock.com/tweenlite/
+
+
+Other libraries used in mmslides, that use New BSD or BSD License:
+
+- SoundManager 2 is licensed under BSD License
+http://www.schillmania.com/projects/soundmanager2/
+
+- as3corelib is licensed under New BSD license. 
+https://github.com/mikechambers/as3corelib
+
+
+mmslides uses the following external binaries under different licenses:
+
+- Imagemagick is licensed under Apache 2.0 license:
+http://www.imagemagick.org/script/index.php
+
+- LAME MP3 encoder is licensed under LGPL license:
+http://www.imagemagick.org/script/index.php
+
+- FFMPEG is licensed under LGPL license:
+http://ffmpeg.org
+FFMPEG codecs have various licenses.
+
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+

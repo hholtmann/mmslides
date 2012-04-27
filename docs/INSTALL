@@ -1,0 +1,51 @@
+Server-Requirements
+===================
+
+* PHP 5.2x or higher with the following modules activated:
+- gd, json, PDO, pdo_sqlite, zip  (http://www.php.net)
+* ImageMagick 6.2.8 or higher (http://www.imagemagick.org/script/index.php)
+* Lame MP3 Encoder (http://lame.sourceforge.net/)
+
+For the Movie-Export Server and Ogg support:
+*   Java SE 6 or higher (http://www.oracle.com/technetwork/java/javase/overview/index.html)
+*	FFmpeg 0.6 or higher (http://ffmpeg.org)
+(configuration suggestion: ./configure --enable-gpl --enable-version3 --enable-nonfree --enable-postproc --enable-libfaac --enable-libmp3lame --enable-libx264 --enable-x11grab --enable-libvorbis --enable-libfaad)
+
+
+Installation instructions
+=========================
+
+1. Extract the installation package (or checkout from github) to your webserver root
+Make sure that the webserver user can write to the complete mmslides directory structure.
+
+2. Open a web-browser and enter the URL http://webserverIP-domain/mmslides/index.php
+This will open the setup-program. Configure the required settings and make sure Data-Path and Installation root are writeable by the webserver user.
+
+3. After the successful setup mmslides is ready to use:
+http://webserverIP-domain/mmslides/index.php should now open the authoring tool.
+
+Movie-Server Installation/Startup:
+
+1. Make sure ffmpeg is installed with the required codecs, the ffmpeg path is configured in the Setup and movie export is enabled.
+2. Change to the server subdirectory of the mmslides installation and start the Movie-Server with the command:
+java -jar MovieCreator.jar &
+You should start the Movie-Server using the webserver user.
+
+Infos
+=====
+
+http://webserverIP-domain/mmslides/index.php - redirects to the setup tool, when configuration is needed - otherwise redirects to the authoring tool
+http://webserverIP-domain/mmslides/author/index.html - direct url to the authoring tool
+http://webserverIP-domain/mmslides/admin/index.php - direct url to the setup/admin tool
+
+You should adjust the user agreement (can be changed in the admin tool) to your needs.
+
+Bug Reporting
+============
+
+Read the LICENSE Text File
+Please report bugs at https://github.com/hholtmann/mmslides/issues
+
+----------------------
+Hendrik Holtmann
+holtmann@mac.com

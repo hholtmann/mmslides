@@ -1,0 +1,7 @@
+.centered{
+   display:block;
+   position:absolute;
+   top:50%;
+   left:35%;
+   width:350px;
+ }

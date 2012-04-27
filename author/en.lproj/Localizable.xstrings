@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1024x768</key>
+	<string>1024 x 768</string>
+	<key>1280x960</key>
+	<string>1280 x 960</string>
+	<key>320x240</key>
+	<string>320 x 240</string>
+	<key>480x360</key>
+	<string>480 x 360</string>
+	<key>640x480</key>
+	<string>640 x 480</string>
+	<key>800x600</key>
+	<string>800 x 600</string>
+	<key>A Movie Export is running</key>
+	<string>A Movie Export is already running</string>
+	<key>About</key>
+	<string>About</string>
+	<key>Action</key>
+	<string>Action</string>
+	<key>Add</key>
+	<string>Add</string>
+	<key>Add Image</key>
+	<string>Add Image</string>
+	<key>An unknown error occured choosing your new password.</key>
+	<string>An unknown error occured choosing your new password.</string>
+	<key>An unknown error occurred during registration.</key>
+	<string>An unknown error occurred during registration.</string>
+	<key>Audio</key>
+	<string>Audio</string>
+	<key>Audio file</key>
+	<string>Audio file</string>
+	<key>Autoplay</key>
+	<string>Autoplay</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Caption</key>
+	<string>Caption</string>
+	<key>Checking. Please wait...</key>
+	<string>Checking. Please wait...</string>
+	<key>Choose</key>
+	<string>Choose</string>
+	<key>Choose a new password</key>
+	<string>Choose a new password</string>
+	<key>Choose a transition</key>
+	<string>Choose a transition</string>
+	<key>Close Project</key>
+	<string>Close Project</string>
+	<key>Codec</key>
+	<string>Codec</string>
+	<key>Confirm:</key>
+	<string>Confirm:</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Copy Project</key>
+	<string>Copy Project</string>
+	<key>Create</key>
+	<string>Create</string>
+	<key>Created</key>
+	<string>Created</string>
+	<key>Creating preview. Please wait...</key>
+	<string>Creating preview. Please wait...</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Data directory</key>
+	<string>Data directory</string>
+	<key>Data directory URL</key>
+	<string>Data directory URL</string>
+	<key>Default slide length</key>
+	<string>Default slide length</string>
+	<key>Default slideshow length</key>
+	<string>Default slideshow length</string>
+	<key>Default transition</key>
+	<string>Default transition</string>
+	<key>Default transition length</key>
+	<string>Default transition length</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Audio</key>
+	<string>Delete Audio</string>
+	<key>Delete Project</key>
+	<string>Delete Project</string>
+	<key>Delete image</key>
+	<string>Delete image</string>
+	<key>Delete images</key>
+	<string>Delete images</string>
+	<key>Distribute slides</key>
+	<string>Distribute slides</string>
+	<key>Do you really want to delete the audio file?</key>
+	<string>Do you really want to delete the audio file?</string>
+	<key>Do you really want to delete the project and all associated files?</key>
+	<string>Do you really want to delete the project and all associated files?</string>
+	<key>Do you really want to redistribute all slides over the current time? All slide durations will be reset to an equal value!</key>
+	<string>Do you really want to redistribute all slides over the current time? All slide durations will be reset to an equal value!</string>
+	<key>Do you want the existing slides distributed equally to the running time of the audio track?</key>
+	<string>Do you want the existing slides distributed equally to the running time of the audio track?</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Duration</key>
+	<string>Duration: %@</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Edit Caption</key>
+	<string>Edit Caption</string>
+	<key>Edit Ken Burns</key>
+	<string>Edit Ken Burns</string>
+	<key>Email:</key>
+	<string>Email:</string>
+	<key>End</key>
+	<string>End</string>
+	<key>Enter the URL to your data directory</key>
+	<string>e.g. http://www.myserver.com/projects</string>
+	<key>Enter the name/IP address of the FTP upload server</key>
+	<string>e.g. ftp.myserver.com</string>
+	<key>Enter the root path to your projects</key>
+	<string>e.g. /projects</string>
+	<key>Enter your email address and we'll send you instructions on how to reset your password.</key>
+	<string>Enter your email address and we'll send you instructions on how to reset your password.</string>
+	<key>Enter your username and password to login.</key>
+	<string>Enter your username and password to login.</string>
+	<key>Enter your username, password and email to register.</key>
+	<string>Enter your username, password and email to register.</string>
+	<key>Export</key>
+	<string>Export</string>
+	<key>Export Project</key>
+	<string>Publish Project</string>
+	<key>FTP Server</key>
+	<string>FTP Server</string>
+	<key>FTP password</key>
+	<string>FTP password</string>
+	<key>FTP username</key>
+	<string>FTP username</string>
+	<key>File</key>
+	<string>File</string>
+	<key>Generating preview. Please wait...</key>
+	<string>Generating preview. Please wait...</string>
+	<key>HTML</key>
+	<string>HTML</string>
+	<key>Help</key>
+	<string>Help</string>
+	<key>Ken Burns</key>
+	<string>Ken Burns</string>
+	<key>Last Editor</key>
+	<string>Last Editor:</string>
+	<key>Last Updated</key>
+	<string>Last Updated</string>
+	<key>Last change</key>
+	<string>Last change</string>
+	<key>Last saved</key>
+	<string>Last saved</string>
+	<key>Length</key>
+	<string>Length</string>
+	<key>Loading. Please wait...</key>
+	<string>Loading. Please wait...</string>
+	<key>Login</key>
+	<string>Login</string>
+	<key>Logout</key>
+	<string>Logout</string>
+	<key>Loop Slideshow</key>
+	<string>Loop Slideshow</string>
+	<key>Lost your password?</key>
+	<string>Lost your password?</string>
+	<key>Manage Projects</key>
+	<string>Manage Projects</string>
+	<key>Manage projects</key>
+	<string>Manage projects</string>
+	<key>Movie</key>
+	<string>Movie</string>
+	<key>Movie Export started</key>
+	<string>Movie Export started</string>
+	<key>MovieExportText</key>
+	<string>The movie export has started and will happen in the background. This can take several minutes. An email will be send to 
+
+%@
+
+with the Download-Link, when its finished.</string>
+	<key>New Project</key>
+	<string>New Project</string>
+	<key>No transition</key>
+	<string>No transition</string>
+	<key>Number of slides</key>
+	<string>Number of slides: %@</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Online Help</key>
+	<string>Online Help</string>
+	<key>Open</key>
+	<string>Open</string>
+	<key>Open Project</key>
+	<string>Open Project</string>
+	<key>Own Projects</key>
+	<string>Own Projects</string>
+	<key>Password troubles?</key>
+	<string>Password troubles?</string>
+	<key>Password:</key>
+	<string>Password:</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Picture Motion</key>
+	<string>Picture Motion</string>
+	<key>Play</key>
+	<string>Play</string>
+	<key>Please choose your new password and confirm it.</key>
+	<string>Please choose your new password and confirm it.</string>
+	<key>Please enter a name for the copied project</key>
+	<string>Please enter a name for the copied project</string>
+	<key>Please enter a name for the new project.</key>
+	<string>Please enter a name for the new project.</string>
+	<key>Please enter a new name for the project</key>
+	<string>Please enter a new name for the project</string>
+	<key>Please enter a valid email address.</key>
+	<string>Please enter a valid email address.</string>
+	<key>Please enter a valid password confirmation.</key>
+	<string>Please enter a valid password confirmation.</string>
+	<key>Please enter a valid password.</key>
+	<string>Please enter a valid password.</string>
+	<key>Please enter a valid username and password.</key>
+	<string>Please enter a valid username and password.</string>
+	<key>Please enter a valid username.</key>
+	<string>Please enter a valid username.</string>
+	<key>Please open the preferences window and enter the necessary settings for online publishing to be able to use website publishing.</key>
+	<string>Please open the preferences window and enter the necessary settings for online publishing to be able to use website publishing.</string>
+	<key>Please select an action</key>
+	<string>Please select an action</string>
+	<key>Preferences</key>
+	<string>Preferences</string>
+	<key>Preset</key>
+	<string>Preset</string>
+	<key>Preview</key>
+	<string>Preview</string>
+	<key>Project</key>
+	<string>Project</string>
+	<key>Project Details</key>
+	<string>Project Details:</string>
+	<key>Project Title</key>
+	<string>Project Title</string>
+	<key>Project already exists.</key>
+	<string>Project already exists.</string>
+	<key>Project name</key>
+	<string>Project name</string>
+	<key>Projects</key>
+	<string>Projects</string>
+	<key>Properties</key>
+	<string>Properties</string>
+	<key>Protect Website with password</key>
+	<string>Protect Website with password</string>
+	<key>Publish</key>
+	<string>Publish</string>
+	<key>Published</key>
+	<string>Published</string>
+	<key>Publishing project. Please wait...</key>
+	<string>Publishing project. Please wait...</string>
+	<key>Redo</key>
+	<string>Redo</string>
+	<key>Rename</key>
+	<string>Rename</string>
+	<key>Rename Project</key>
+	<string>Rename Project</string>
+	<key>Republish</key>
+	<string>Republish</string>
+	<key>Request</key>
+	<string>Request</string>
+	<key>Resolution</key>
+	<string>Resolution</string>
+	<key>Resume</key>
+	<string>Resume</string>
+	<key>RunningMovieExportText</key>
+	<string>You are already running %d movie export(s) for this project.Do you really want to start a new movie export?</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Saving. Please wait...</key>
+	<string>Saving. Please wait...</string>
+	<key>Search</key>
+	<string>Search</string>
+	<key>Search for a name</key>
+	<string>Search for a name</string>
+	<key>Shared Projects</key>
+	<string>Shared Projects</string>
+	<key>Shared with</key>
+	<string>Shared with...</string>
+	<key>Show Captions</key>
+	<string>Show Captions</string>
+	<key>Show Controls</key>
+	<string>Show Controls</string>
+	<key>Show:</key>
+	<string>Show:</string>
+	<key>Size</key>
+	<string>Size</string>
+	<key>Slide Properties</key>
+	<string>Slide Properties</string>
+	<key>Slide length</key>
+	<string>Slide length</string>
+	<key>Slide show length</key>
+	<string>Slide show length</string>
+	<key>Slides</key>
+	<string>Slides</string>
+	<key>Something went wrong. Check your internet connection and try again.</key>
+	<string>Something went wrong. Check your internet connection and try again.</string>
+	<key>Start</key>
+	<string>Start</string>
+	<key>Start adding images by clicking the 'Add Image' button</key>
+	<string>Start adding images by clicking the 'Add Image' button</string>
+	<key>Static</key>
+	<string>Static</string>
+	<key>Style</key>
+	<string>Style</string>
+	<key>The project name already exists. Please choose another name.</key>
+	<string>The project name already exists. Please choose another name.</string>
+	<key>The requested email address is not registered.</key>
+	<string>The requested email address is not registered.</string>
+	<key>The username already exists.</key>
+	<string>The username already exists.</string>
+	<key>This Slideshow has been published</key>
+	<string>This Slideshow has been published</string>
+	<key>This Slideshow has been published to the URL</key>
+	<string>This Slideshow has been published to the URL</string>
+	<key>Transition</key>
+	<string>Transition</string>
+	<key>Undo</key>
+	<string>Undo</string>
+	<key>Unpublish</key>
+	<string>Unpublish</string>
+	<key>Untitled</key>
+	<string>Untitled</string>
+	<key>Update slide</key>
+	<string>Update slide</string>
+	<key>Upload Audio</key>
+	<string>Upload Audio</string>
+	<key>Usage</key>
+	<string>Usage</string>
+	<key>User Manual</key>
+	<string>User Manual</string>
+	<key>Username:</key>
+	<string>Username:</string>
+	<key>Website</key>
+	<string>Website</string>
+	<key>Wrong password confirmation.</key>
+	<string>Wrong password confirmation.</string>
+	<key>Y-m-d H:i</key>
+	<string>Y-m-d H:i</string>
+	<key>You are already running %d export task(s)</key>
+	<string>You are already running %d export task(s)</string>
+	<key>YouTube</key>
+	<string>YouTube</string>
+	<key>ZIP</key>
+	<string>ZIP</string>
+	<key>crossfade</key>
+	<string>Crossfade</string>
+	<key>dissolve</key>
+	<string>Dissolve</string>
+	<key>fade</key>
+	<string>Fade</string>
+	<key>flv</key>
+	<string>Sorenson</string>
+	<key>h.264</key>
+	<string>H.264</string>
+	<key>mail body</key>
+	<string>Hello %s
+
+To choose a new password for your mmslides password, use the link below:
+
+Password reset link:
+%s
+
+
+Thanks,
+
+The mmslides Team
+</string>
+	<key>mail subject</key>
+	<string>mmslides password reset</string>
+	<key>mpeg4</key>
+	<string>MPEG 4</string>
+	<key>notransition</key>
+	<string>No Transition</string>
+	<key>sec</key>
+	<string>sec</string>
+	<key>seconds</key>
+	<string>seconds</string>
+	<key>straightcut</key>
+	<string>Straight Cut</string>
+</dict>
+</plist>

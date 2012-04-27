@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Computer High/TV-HD (1280*960)</string>
+		<key>resolution</key>
+		<integer>0</integer>
+		<key>codec</key>
+		<integer>1</integer>
+		<key>usage</key>
+		<string>Playback on Computer, TV, Upload to YouTube HD/Vimeo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Computer Normal/iPad (1024*68)</string>
+		<key>resolution</key>
+		<integer>1</integer>
+		<key>codec</key>
+		<integer>1</integer>
+		<key>usage</key>
+		<string>Playback on Computer, Tablets/iPad</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Web-High Quality (800*600)</string>
+		<key>resolution</key>
+		<integer>2</integer>
+		<key>codec</key>
+		<integer>1</integer>
+		<key>usage</key>
+		<string>Embed in Websites/LMS in High Quality</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Web-Normal Quality / iPhone (640*480)</string>
+		<key>resolution</key>
+		<integer>3</integer>
+		<key>codec</key>
+		<integer>1</integer>
+		<key>usage</key>
+		<string>Embed in Websites/LMS,Playback on Smartphones, Upload to Youtube </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Web-Low Quality / iPod (320*200)</string>
+		<key>resolution</key>
+		<integer>4</integer>
+		<key>codec</key>
+		<integer>0</integer>
+		<key>usage</key>
+		<string>Embed in Websites,Playback on MP3-Players </string>
+	</dict>
+
+</array>
+</plist>
