@@ -5,6 +5,7 @@ Server-Requirements
 - gd, json, PDO, pdo_sqlite, zip  (http://www.php.net)
 * ImageMagick 6.2.8 or higher (http://www.imagemagick.org/script/index.php)
 * Lame MP3 Encoder (http://lame.sourceforge.net/)
+* A local running mailserver to send out registration and status mails
 
 For the Movie-Export Server and Ogg support:
 *   Java SE 6 or higher (http://www.oracle.com/technetwork/java/javase/overview/index.html)
